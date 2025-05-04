@@ -12,5 +12,3 @@ RUN javac src/Main.java
 
 # run the application
 CMD ["java","Main"]
-
-~                         
